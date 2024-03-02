@@ -1,10 +1,6 @@
-Project Overview
+Walmart Sales Data Analysis
+About
+This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
 
-This project involved the following steps:
+"In this recruiting competition, job-seekers are provided with historical sales data for 45 Walmart stores located in different regions. Each store contains many departments, and participants must project the sales for each department in each store. To add to the challenge, selected holiday markdown events are included in the dataset. These markdowns are known to affect sales, but it is challenging to predict which departments are affected and the extent of the impact." source
 
-Data Acquisition: The data was downloaded from [source of data] (if publicly available, mention the source).
-Data Cleaning: The data was cleaned to address missing values, inconsistencies, and formatting issues.
-Exploratory Data Analysis (EDA): The data was explored to understand its distribution, identify key features, and uncover potential relationships.
-Feature Engineering: (Optional) If applicable, new features were created to enhance analysis.
-Modeling: (Optional) If applicable, statistical models were used to predict future trends or customer behavior.
-Visualization: Insights were visualized using charts and graphs to effectively communicate the findings.
